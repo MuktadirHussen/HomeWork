@@ -1,6 +1,4 @@
 package hw4Q2JavaVariablesDeclared;
-// Testing 1
-// Testing 2
 public class AboutMeTest {
 
 	public static void main(String[] args) {
