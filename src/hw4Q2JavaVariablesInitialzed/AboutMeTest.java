@@ -1,9 +1,9 @@
-package hw4Q2JavaVariablesDeclared;
+package hw4Q2JavaVariablesInitialzed;
 
 public class AboutMeTest {
 
 	public static void main(String[] args) {
-		AboutMe info = new AboutMe();
+		AboutMe info = new AboutMe(); //constructor initialized when object is created 
 
 		info.name = "Muktadir hussen";
 		info.age = 32;
@@ -18,7 +18,7 @@ public class AboutMeTest {
 
 		System.out.println("\n**************************\n");
 
-		AboutMe info2 = new AboutMe();
+		AboutMe info2 = new AboutMe();// constructor initialized when object is created
 		info2.name = "Alex";
 		info2.age = 34;
 		info2.height = 4.712f;
