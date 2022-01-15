@@ -22,10 +22,9 @@ public class AboutMe {
 				+ "\nMy House Rent: " + yearlyRent + "\nMy Gender: " + gender + "\nAm I US Citizen Ans: " + usCitizen);
 	}
 
-public static void main(String[]args) {
-	AboutMe info = new AboutMe();
-	info.aboutMe();
-}
-
+	public static void main(String[] args) {
+		AboutMe info = new AboutMe();
+		info.aboutMe();
+	}
 
 }

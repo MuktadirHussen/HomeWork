@@ -12,11 +12,12 @@ public class AboutMe {
 	public char gender;
 	public boolean usCitizen;
 
-	//constructor declared 
+	// constructor declared
 	public AboutMe() {
 		System.out.println("This is all about me: ");
 	}
-// method implemented 
+
+// method implemented
 	public void aboutMe() {
 		System.out.println("My Name Is: " + name + "\nMy Age: " + age + "\nMy Height: " + height
 				+ "\nMy Yearly Salary: " + yearlySalary + "\nMy Bank Balance: " + bankBalance + "\nMy Grade: " + grade

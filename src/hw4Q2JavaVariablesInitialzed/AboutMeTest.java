@@ -3,7 +3,7 @@ package hw4Q2JavaVariablesInitialzed;
 public class AboutMeTest {
 
 	public static void main(String[] args) {
-		AboutMe info = new AboutMe(); //constructor initialized when object is created 
+		AboutMe info = new AboutMe(); // constructor initialized when object is created
 
 		info.name = "Muktadir hussen";
 		info.age = 32;
