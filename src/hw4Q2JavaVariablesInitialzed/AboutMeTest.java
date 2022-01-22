@@ -4,7 +4,7 @@ public class AboutMeTest {
 
 	public static void main(String[] args) {
 		AboutMe info = new AboutMe(); // constructor initialized when object is created
-
+		// variable initialized below
 		info.name = "Muktadir hussen";
 		info.age = 32;
 		info.height = 5.712f;
@@ -14,10 +14,9 @@ public class AboutMeTest {
 		info.yearlyRent = 13000;
 		info.gender = 'M';
 		info.usCitizen = true;
-		info.aboutMe();
+		info.aboutMe();// method initialized
 
 		System.out.println("\n**************************\n");
-
 		AboutMe info2 = new AboutMe();// constructor initialized when object is created
 		info2.name = "Alex";
 		info2.age = 34;

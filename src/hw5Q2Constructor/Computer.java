@@ -9,11 +9,8 @@ public class Computer {
 	public boolean madeInUsa;
 
 	public Computer() {
-
 		System.out.println("This is from default Constructor of Computer class. ");
-
 	}
-
 	public Computer(String brand, String model, String operatingSystem, int price, char grade, boolean madeInUsa) {
 		this.brand = brand;
 		this.model = model;
@@ -21,9 +18,8 @@ public class Computer {
 		this.price = price;
 		this.grade = grade;
 		this.madeInUsa = madeInUsa;
-
-		System.out.println("My brand: " + brand + "\nModel: " + model + "\nOperating System: " + operatingSystem
-				+ "\nPrice: $" + price + "\nGrade: " + grade + "\nMade in usa :" + madeInUsa);
+		System.out.println("My brand: " + brand + ",Model: " + model + ",Operating System: " + operatingSystem
+		+ ",Price: $" + price + ",Grade: " + grade + ",Made in usa: " + madeInUsa);
 
 	}
 

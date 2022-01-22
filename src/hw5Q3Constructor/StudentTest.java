@@ -4,8 +4,7 @@ public class StudentTest {
 
 	public static void main(String[] args) {
 		Student student = new Student();
-		System.out.println(" ");
-
+		System.out.println("\n----------------------------\n");
 		Student student1 = new Student("Muktadir Hussen", 123, 'M', 3.976f, true);
 		System.out.println(" ");
 		Student student2 = new Student("Runa Jabbar", 456, 'F', 4.976f, true);

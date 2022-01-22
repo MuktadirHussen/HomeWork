@@ -1,7 +1,7 @@
 package hw4Q2JavaVariablesInitialzed;
 
 public class AboutMe {
-// variables declared 
+	// variables declared
 	public String name;
 	public byte age;
 	public float height;
@@ -17,11 +17,11 @@ public class AboutMe {
 		System.out.println("This is all about me: ");
 	}
 
-// method implemented
+	// method implemented
 	public void aboutMe() {
 		System.out.println("My Name Is: " + name + "\nMy Age: " + age + "\nMy Height: " + height
 				+ "\nMy Yearly Salary: " + yearlySalary + "\nMy Bank Balance: " + bankBalance + "\nMy Grade: " + grade
-				+ "\nMy House Rent: " + yearlyRent + "\nMy Gender: " + gender + "\nAm I US Citizen Ans: " + usCitizen);
+				+ "\nMy House Rent: " + yearlyRent + "\nMy Gender: " + gender + "\nAm I US Citizen?Ans: " + usCitizen);
 	}
 
 }
