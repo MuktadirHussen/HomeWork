@@ -15,7 +15,6 @@ public class AboutMeTest {
 		info.gender = 'M';
 		info.usCitizen = true;
 		info.aboutMe();// method initialized
-
 		System.out.println("\n**************************\n");
 		AboutMe info2 = new AboutMe();// constructor initialized when object is created
 		info2.name = "Alex";
@@ -28,7 +27,6 @@ public class AboutMeTest {
 		info2.gender = 'F';
 		info2.usCitizen = false;
 		info2.aboutMe();
-
 	}
 
 }
