@@ -1,5 +1,4 @@
 package hw1Q2JavaBasics;
-
 /*
  HomeWorkJava
  hw1Q2JavaBasics
@@ -8,6 +7,6 @@ package hw1Q2JavaBasics;
 public class MySelf {
 	// Entry point of java represented by
 	public static void main(String[] args) {
-		System.out.println("Muktadir hussen");
+	System.out.println("Muktadir hussen");
 	}
 }
