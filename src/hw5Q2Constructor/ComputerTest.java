@@ -4,6 +4,7 @@ public class ComputerTest {
 
 	public static void main(String[] args) {
 		Computer computer = new Computer();
+		
 		System.out.println("");
 		Computer computer1 = new Computer("Apple", "MacBook Air", "MacOsJave", 800, 'A', false);
 		System.out.println("\n*******************\n");
