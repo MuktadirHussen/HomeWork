@@ -10,7 +10,5 @@ public class StudentTest {
 		Student student2 = new Student("Runa Jabbar", 456, 'F', 4.976f, true);
 		System.out.println(" ");
 		Student student3 = new Student("Ahyan Hussen", 789, 'M', 5.976f, false);
-
 	}
-
 }
