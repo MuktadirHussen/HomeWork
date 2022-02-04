@@ -10,7 +10,6 @@ public class Student {
 	public Student() {
 		System.out.println("This is from Default Constructor of student class:");
 	}
-
 	public Student(String stName, int stId, char sex, float grade, boolean javaProgrammer) {
 		this.stName = stName;
 		this.stId = stId;
