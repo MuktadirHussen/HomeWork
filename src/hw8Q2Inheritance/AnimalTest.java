@@ -2,8 +2,9 @@ package hw8Q2Inheritance;
 
 public class AnimalTest {
 
-	// Animal has 3childs and extends by their child BullDog,Cobra and Robin.
-	// This is Call Hierarchical Inheritance
+	// Animal has 3 childs and extends by their child BullDog, Cobra and Robin,
+	// it's called multi-level inheritance and
+	// This is an example of Hierarchical Inheritance
 	public static void main(String[] args) {
 		Animal animal = new Animal();
 		animal.animalInfo();
