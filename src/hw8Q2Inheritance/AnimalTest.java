@@ -4,7 +4,7 @@ public class AnimalTest {
 
 	// Animal has 3 childs and extends by their child BullDog, Cobra and Robin,
 	// it's called multi-level inheritance and
-	// This is an example of Hierarchical Inheritance
+	// This is an example of Hierarchical Inheritance.
 	public static void main(String[] args) {
 		Animal animal = new Animal();
 		animal.animalInfo();
