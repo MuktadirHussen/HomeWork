@@ -1,7 +1,6 @@
 package hw8Q3Abstraction;
 
 public interface University {
-	
 	// public University() { 
 	//}
 	// you can not declare constructor inside the interface.

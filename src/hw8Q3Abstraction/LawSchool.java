@@ -1,6 +1,6 @@
 package hw8Q3Abstraction;
 
-public interface LawSchoo {
+public interface LawSchool {
 	
 	public void lawInfo();
 }
