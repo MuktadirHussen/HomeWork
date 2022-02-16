@@ -15,8 +15,7 @@ public class Sister {
 		return total2;
 	}
 	// method is overloading in line 12 and line 19 because they both have,
-	// different type of parameter/signature and in different combination (line 12
-	// has String age).
+	// different type of parameter/signature and in different combination (line 12mhas String age).
 	// final method can overload.
 	public final int sister(int age3, int age5, int age6) {
 		int total3 = age3 + age5 + age6;
